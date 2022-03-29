@@ -1,0 +1,45 @@
+.app{
+  border: 1px solid black;
+  padding: 100px;
+  text-align: center;
+}
+.allLight{
+  margin-top: 100px;
+  justify-content:space-evenly;
+  display: flex;
+  width: 200px;
+}
+.light{
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.redLight{
+  background-color: red;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.yellowLight{
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.greenLight{
+  background-color: green;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+button{
+  width: 100px;
+  height: 50px;
+  border:black;
+  justify-content: center;
+}
+
